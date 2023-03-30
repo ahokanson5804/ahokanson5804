@@ -1,12 +1,9 @@
 - 👋 Hi, I’m Andrew Hokanson - @ahokanson5804
 
-I come from a software background. Primarily software testing for helthcare applications along with data analysis.
+I come from a software background. Started career off w/ software testing for healthcare applications along with data analysis.
 
 What are my career goals?
-I want to take my knowledge in software engineering and combine them with my securities trading background towards the field of FinTech.
-
-Why did I choose FinTech as a career path?
-See above answer.
+I want to take my knowledge in software, scripting, (financial) data analysis and GPT knowledge to work in the area of Fintech or AI.
 
 <!---
 ahokanson5804/ahokanson5804 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
